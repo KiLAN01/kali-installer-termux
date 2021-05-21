@@ -20,6 +20,7 @@ echo -e '\033[1;31m
 ▐███▌▐█•█▌▐█▄▄▌██. ██ ▐█▌ ▐█▌·▐█▄▪▐█
 ·▀▀▀ .▀  ▀ ▀▀▀ ▀▀▀▀▀• ▀▀▀ ▀▀▀  ▀▀▀▀ 
 \033[1;31m'
+echo -e '\033[1;31m help me make money improve the performance of my tools using my tik tok code J108744047 (you will earn 1.12 dollars) \033[1;31m '
 echo -e '\033[1;31m program developed by kilan01 youtube: https://www.youtube.com/channel/UCaVBnB4CQxiW6-Nuhmi1gqa \033[1;31m'
 sleep 3
 clear
@@ -29,7 +30,6 @@ apt install wget -y
 sleep 3
 clear
 echo -e '\033[0;33m [+]installed-packages[+] \033[0;33m'
-'\033[1;31m help me make money improve the performance of my tools using my tik tok code J108744047 (you will earn 1.12 dollars) \033[1;31m '
 sleep 4
 clear
 echo -e '
