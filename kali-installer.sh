@@ -1,4 +1,4 @@
-﻿#!/bin/bash
+#!/bin/bash
 #program made by kilan
 Yellow='\033[0;33m'
 BRed='\033[1;31m'
